@@ -1,0 +1,25 @@
+h1{
+    text-align: center;
+
+}
+.zod{
+    display: flex;
+    justify-content: center;
+    text-align: center;
+    text-decoration: none;
+   
+}
+body{
+    background-image: url("https://www.nationsonline.org/gallery/World/island-countries.jpg");
+    background-repeat: no-repeat;
+    background-size: 1500px;
+    padding: 15px;
+   color: white;
+    
+}
+.button{
+    text-decoration: none;
+    color: black;
+    border: 1px solid violet;
+    border-radius: 25 25;
+}
